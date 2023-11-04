@@ -14,6 +14,9 @@ module.exports = {
         'pink': '#e9dddf',
         'dark-blue': '#8bbec8',
       },
+      backgroundImage: {
+        'hero-pattern': "url('/public/images/hero-background.svg')"
+      }
     },
   },
   plugins: [],
